@@ -1,0 +1,20 @@
+.sub{
+  background-color: rgb(198, 55, 55);
+  color: white;
+  border: none;
+  height: 36px;
+  width: 105px;
+  border-radius: 5px;
+  }
+.jon{
+  background-color: rgb(198, 54, 54);
+  color: white;
+  border: none;
+  height: 36px;
+  width: 105px;
+  border-radius: 5px;
+  margin-right:2px;
+  margin-left: 2px;
+  border-style:solid;
+  
+}

@@ -1,0 +1,17 @@
+body{
+  "background-color: whitesmoke;
+  display: flex;
+  align-items:baseline; 
+  gap: 600px;
+
+}
+.navbar{
+  text-align: center;
+}
+a:link{
+  text-decoration: none;
+  margin-left: 30px;
+}
+.border{
+  color: red;
+}

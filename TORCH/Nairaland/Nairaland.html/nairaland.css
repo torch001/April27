@@ -1,0 +1,58 @@
+*{
+  font-family:sans-serif
+
+}
+.container{
+    max-width: 900px;
+    margin: auto;
+
+}
+
+.header{
+    text-align: center;
+    border: 1px solid gray;
+    border-radius: 15px;
+    /* padding: 20px 0px; */
+
+}
+
+.main :first-child{
+    text-align: center; 
+}
+.main h3 {
+    background-color: #e8ece0;
+}
+
+.main2{
+    background-color: ;
+}
+
+a:link{
+    color:blue;
+}
+
+a:visited{
+    color: green
+}
+
+a:hover{
+    text-decoration: underline;
+    color: coral;
+}
+
+a:active{
+    color: red;
+}
+
+.links::first-letter{
+    color: orange;
+}
+
+.first-line::first-line{
+    color: darkmagenta;
+}
+span{class}{
+    display: block;
+    letter-spacing:2px
+    shad
+}

@@ -1,0 +1,42 @@
+body{
+    background-color: blue;
+}
+.pee{
+   color: white;
+   font-size: 30px;
+}
+#tor{
+  color: white;
+  font-size: 20px;
+}
+
+.ex{
+    color: rgb(45, 123, 45); 
+   font-size: 30px;
+}
+.cool{
+    color: white;
+}
+.low{
+    color: rgb(208, 205, 205);
+}
+.style{
+    font-style: italic;
+    font-weight: 600px;
+}
+.shad{
+    background-color: rgba(0, 0, 255, 1);
+    opacity: 0.8;
+}
+.hsl{
+    height: 50px;
+    width: 50px;
+   background-color: hsl(113, 50%, 72%);
+}
+.B{
+  background-color: rgb(150, 56, 56);
+  text-align: center;  
+}
+.A{
+    background-color: wheat;
+}
